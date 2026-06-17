@@ -1,82 +1,88 @@
-# 👋 Hello, I'm Allah Macedo
-
+<!-- Hero Banner -->
 <p align="center">
-  <img src="./assets/header-v2.png" alt="Allah Macedo Header">
+  <img src="./assets/header-dark.png" alt="Allah Macedo Banner" width="100%">
 </p>
 
+<h1 align="center">
+  Hello, I'm Allah Macedo 👋
+</h1>
+
 <h3 align="center">
-Front-End Developer & Software Engineering Student
+  Front-End Developer
 </h3>
 
 <p align="center">
-Passionate about technology, software architecture, and continuous learning.
-<br>
-Currently focused on mastering the foundations of web development and building real projects that transform knowledge into experience.
+  Passionate about web development and continuous learning.<br>
+  Currently improving my front-end skills, mastering development tools, 
+  and building a strong foundation as a software developer.
 </p>
 
 ---
 
-## 🚀 About Me
-
-* 💻 Building my journey as a Software Developer
-* 📚 Studying Computer Science and Software Engineering fundamentals
-* 🌱 Deepening my knowledge in JavaScript and modern web technologies
-* 🧠 Interested in software architecture, clean code, and AI-powered systems
-* 🛠 Building personal projects to learn by doing
-
----
-
-## ⚡ Current Projects
-
-### Dev Journey System
-
-A modular AI-powered learning system designed to guide developers through structured learning paths.
-
-Main concepts:
-
-* Modular architecture
-* AI-driven lessons
-* Dynamic exercises and projects
-* Progressive learning roadmap
-
----
-
-## 🧰 Tech Stack
+## 🛠️ Technology Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Development Environment & Tools
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Current Learning Journey
+
+- 🌱 Improving JavaScript knowledge
+- 🔧 Learning Git & GitHub workflows
+- 💻 Mastering terminal environments and development tools
+- 🚀 Building projects to gain practical experience
+
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
+  <img src="https://github.com/AllahMacedo/AllahMacedo/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+---
 
-💼 LinkedIn: your-linkedin
+## 📊 GitHub Statistics
 
-🌐 Portfolio: Coming Soon
+<p align="center">
+  <!-- Add your GitHub Stats cards here -->
+</p>
 
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:allah.coder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/allah-macedo-1b3613122/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-"Every expert was once a beginner. Keep building. Keep learning."
+  ⭐ Building my journey one commit at a time.
 </p>
