@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="./assets/header-dark.png" alt="Allah Macedo Banner" width="100%">
+  <img src="image/ChatGPT Image 16 de jun. de 2026, 22_11_56.png" width="100%">
 </p>
 
 <h1 align="center">
